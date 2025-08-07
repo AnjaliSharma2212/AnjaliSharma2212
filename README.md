@@ -1,67 +1,109 @@
 <div align="center">
-  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
+  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" />
 </div>
 
 ###
 
 <div align="center">
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="youtube logo"  />
-  <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
+  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo" />
+  <img src="https://img.shields.io/static/v1?message=YouTube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="youtube logo" />
+  <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo" />
 </div>
 
 ###
 
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=maurodesouza.maurodesouza&"  />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=anjalisharma.anjalisharma" />
 </div>
 
 ###
 
-<h1 align="center">hey there 👋</h1>
+<h1 align="center">Hey there 👋 I'm Anjali Sharma</h1>
 
 ###
 
-<h3 align="left">👩‍💻  About Me</h3>
+<h3 align="center">🚀 Full Stack Web Developer | Passionate Learner | Based in Jammu (J&K)</h3>
 
-###
+---
 
-<p align="left">I'm Anjali Sharma from Jammu (J&K) <br><br>- 🔭 I’m passoniate Full Stack Developer.<br>- 📚 I'm currently learning New tech.<br>
+### 👩‍💻 About Me
 
-###
+- 🔭 I’m a passionate Full Stack Developer who loves building user-friendly web apps  
+- 🌱 Currently learning advanced backend and system design concepts  
+- 💬 Ask me about anything related to **JavaScript**, **React**, or **Node.js**  
+- 🤝 Open to collaboration on exciting frontend/backend projects  
+- 📫 Reach me at: `your_email@example.com` *(update with real email)*  
 
-<h3 align="left">🛠 Language and tools</h3>
+---
 
-###
+### 🛠️ Tech Stack
 
+**Languages & Core:**
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg" height="40" alt="go logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-original.svg" height="40" alt="rust logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-plain-wordmark.svg" height="40" alt="ruby logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-plain-wordmark.svg" height="40" alt="dot-net logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain-wordmark.svg" height="40" alt="firebase logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-line-wordmark.svg" height="40" alt="amazonwebservices logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/circleci/circleci-plain.svg" height="40" alt="circleci logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="40" alt="kubernetes logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" height="40" alt="docker logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML5" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS3" />
 </div>
 
-###
+**Frontend:**
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="React" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="Next.js" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="Bootstrap" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" height="40" alt="Tailwind CSS" />
+</div>
 
-<h3 align="left">🔥   My Stats :</h3>
+**Backend & Database:**
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="Node.js" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" alt="Express" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="MongoDB" />
+</div>
 
-###
+**Others:**
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="GitHub" />
+</div>
+
+---
+
+### 📈 GitHub Stats
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=maurodesouza&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=anjalisharma&theme=dark&border_radius=5&date_format=M%20j%5B%2C%20Y%5D" height="220" alt="Streak Stats" />
 </div>
 
-###
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=anjalisharma&show_icons=true&theme=dark" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anjalisharma&layout=compact&theme=dark" height="180" />
+</div>
+
+---
+
+### 📚 Currently Exploring
+
+- System design patterns  
+- Cloud deployment (Vercel, Render, Firebase Hosting)  
+- Real-world full stack apps with **JWT**, **refresh tokens**, **role-based auth**, and **Firebase**
+
+---
+
+### 🧠 DSA Practice
+
+- Regularly solving Data Structures & Algorithms on platforms like **LeetCode** and **GeeksforGeeks**
+
+---
+
+### 📫 Let's Connect
+
+Feel free to connect and collaborate!
+
+- LinkedIn: [linkedin.com/in/anjalisharma042](#)
+- Twitter: [twitter.com/your-twitter](#)
+- Email: anjalivce19@gmail.com
+
+---
+
+> ⚡ *“Code is like humor. When you have to explain it, it’s bad.” – Cory House*
+
