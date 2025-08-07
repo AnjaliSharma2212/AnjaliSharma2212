@@ -32,7 +32,7 @@
 - 🌱 Currently learning advanced backend and system design concepts  
 - 💬 Ask me about anything related to **JavaScript**, **React**, or **Node.js**  
 - 🤝 Open to collaboration on exciting frontend/backend projects  
-- 📫 Reach me at: `your_email@example.com` *(update with real email)*  
+- 📫 Reach me at: `anjalivce19@gmail.com`  
 
 ---
 
@@ -71,12 +71,12 @@
 ### 📈 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=anjalisharma&theme=dark&border_radius=5&date_format=M%20j%5B%2C%20Y%5D" height="220" alt="Streak Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=AnjaliSharma2212&theme=dark&border_radius=5&date_format=M%20j%5B%2C%20Y%5D" height="220" alt="Streak Stats" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=anjalisharma&show_icons=true&theme=dark" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anjalisharma&layout=compact&theme=dark" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api?username=AnjaliSharma2212&show_icons=true&theme=dark" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnjaliSharma2212&layout=compact&theme=dark" height="180" />
 </div>
 
 ---
