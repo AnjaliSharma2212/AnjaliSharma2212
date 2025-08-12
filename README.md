@@ -33,8 +33,7 @@
 - 🔭 Currently building **real-world full stack apps** with authentication & role-based access  
 - 🌱 Learning **system design & advanced backend concepts**  
 - 💬 Ask me about **JavaScript**, **React**, **Node.js**, **Firebase**  
-- 📫 Reach me at **anjalivce19@gmail.com**  
-- ⚡ Fun fact: I love writing poetry and exploring new places  
+- 📫 Reach me at **anjalivce19@gmail.com**    
 
 ---
 
