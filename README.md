@@ -101,8 +101,7 @@
 
 ### 📫 Connect With Me  
 
-- LinkedIn: [linkedin.com/in/anjalisharma042](https://linkedin.com/in/anjalisharma042)  
-- Twitter: [twitter.com/your-twitter](https://twitter.com/your-twitter)  
+- LinkedIn: [linkedin.com/in/anjalisharma042](https://linkedin.com/in/anjalisharma042)   
 - Email: **anjalivce19@gmail.com**  
 
 ---
